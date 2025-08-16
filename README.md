@@ -34,4 +34,4 @@ git clone https://github.com/Aarigo/portfolio.git
 cd portfolio
 open index.html
 Contact
-Email: aarthykamaraj@example.com
+Email: aarthykamaraj@gmail.com
