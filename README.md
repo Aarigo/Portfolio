@@ -4,27 +4,17 @@ This is a showcase of who I am, what I do, and the projects I've built so far.
 
 About Me
 I’m an Aspiring Full Stack Developer with strong problem-solving abilities and a solid foundation in web development technologies. Skilled in both frontend and backend development, I enjoy building scalable, user-friendly applications.
+
 Outside the screen, you’ll find me singing Carnatic music or exploring something new to grow a little every day!
 
 Tech Stack
-Frontend: HTML, CSS, JavaScript, React
+Frontend: HTML, CSS, JavaScript.
 
 Backend: Java
 
 Database: MySQL
 
 Tools: Git, GitHub, VS Code
-
-Features
-Responsive design
-
-Smooth scroll navigation
-
-Project showcase with links
-
-Skills & experience section
-
-contact form
 
 How to Run Locally
 bash
